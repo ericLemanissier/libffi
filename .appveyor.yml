@@ -11,9 +11,6 @@ shallow_clone: true
 image: Visual Studio 2017
 platform:
   - x64
-  - x86
-  - arm
-  - arm64
 
 configuration:
   - Debug
